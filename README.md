@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BotMoE Reposiotry
 
 This is the official repo for [BotMoE: Twitter Bot Detection with Community-Aware Mixtures of Modal-Specific Experts](https://arxiv.org/pdf/2304.06280.pdf3) @ SIGIR 2023.
